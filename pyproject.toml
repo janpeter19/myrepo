@@ -1,0 +1,11 @@
+[buil-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mymodule"
+version = "0.1.0"
+authors = [
+   {name = "Jan Peter Axelsson"}
+]
+license = "MIT"
